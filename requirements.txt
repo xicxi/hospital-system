@@ -1,0 +1,13 @@
+asgiref             3.8.1
+Django              3.2.11
+django-cors-headers 3.13.0
+djangorestframework 3.13.0
+Pillow              9.1.1
+pip                 24.2
+psutil              5.9.4
+PyMySQL             1.0.2
+pytz                2024.2
+setuptools          75.1.0
+sqlparse            0.5.2
+typing_extensions   4.12.2
+wheel               0.44.0
